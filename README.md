@@ -1,6 +1,10 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQGdGymiPmOfCA/profile-displaybackgroundimage-shrink_350_1400/0/1672259002520?e=1681948800&v=beta&t=NphIbjqacIiV2ha7zMmjzUyD-fG8BjQF1W_I1NNupjA)
 
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=34&pause=1000&color=3A499F&center=true&width=435&lines=Hi%2C+I'm+Anna+" alt="Typing SVG" /></a> </h1>
+<!-- <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=14C3FF&width=435&lines=Hi%2C+I'm+Anna)](https://git.io/typing-svg)</h1> -->
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=14C3FF&center=true&width=435&lines=Hi%2C+I'm+Anna" alt="Typing SVG" /></a> </h1>
+
+<!-- <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=34&pause=1000&color=3A499F&center=true&width=435&lines=Hi%2C+I'm+Anna+" alt="Typing SVG" /></a> </h1> -->
 
 <h3 align="left" >  A curious Software Engineer :octocat:</h3>
 
