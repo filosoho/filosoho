@@ -15,7 +15,9 @@
 📍 How to reach me: <a href="https://www.linkedin.com/in/filosoho/">**LinkedIn**</a>
 
 <br>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filosoho&show_icons=true&theme=jolly&locale=en&layout=compact" alt="filosoho"/></p>
+<!-- <p align="left"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=filosoho&show_icons=true&theme=jolly&locale=en&layout=compact" alt="filosoho"/></p> -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filosoho&layout=compact&title_color=C52977&icon_color=C52977&bg_color=270542&text_color=ffffff)
 
   
 
