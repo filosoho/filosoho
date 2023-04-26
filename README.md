@@ -1,4 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQGdGymiPmOfCA/profile-displaybackgroundimage-shrink_350_1400/0/1672259002520?e=1681948800&v=beta&t=NphIbjqacIiV2ha7zMmjzUyD-fG8BjQF1W_I1NNupjA)
+<!-- ![MasterHead](https://media.licdn.com/dms/image/D4E16AQGdGymiPmOfCA/profile-displaybackgroundimage-shrink_350_1400/0/1672259002520?e=1681948800&v=beta&t=NphIbjqacIiV2ha7zMmjzUyD-fG8BjQF1W_I1NNupjA) -->
+
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQGdGymiPmOfCA/profile-displaybackgroundimage-shrink_350_1400/0/1672259002520?e=1687996800&v=beta&t=gT5j9CEEbEY6QFXVyF6fRvwK7ORMWHtj4Zafjr3KsPY)
 
 <!-- <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=14C3FF&width=435&lines=Hi%2C+I'm+Anna)](https://git.io/typing-svg)</h1> -->
 
