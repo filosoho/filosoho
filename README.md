@@ -12,6 +12,13 @@
 
 <hr>
 
+🔍 I’m currently learning **Python, JavaScript, React** 
+
+📍 How to reach me: <a href="https://www.linkedin.com/in/filosoho/">**LinkedIn**</a>
+
+<hr>
+
+
 <h4 align="left"> 🛠️ Languages and Tools: </h4>
 
 <p align="left">
@@ -49,11 +56,9 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&theme=tokyonight)
 
-<hr>
 
-🔍 I’m currently learning **Python, JavaScript, React** 
 
-📍 How to reach me: <a href="https://www.linkedin.com/in/filosoho/">**LinkedIn**</a>
+
 
 
   
