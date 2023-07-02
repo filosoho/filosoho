@@ -45,7 +45,9 @@
 <!-- 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&title_color=C52977&icon_color=C52977&bg_color=270542&text_color=ffffff&custom_height=80) -->
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&theme=react&line_height=40&hide=css)
+
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&theme=tokyonight)
 
 <hr>
 
@@ -56,7 +58,7 @@
 
   
 
-
+<!--  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&theme=react&line_height=40&hide=css)  -->
 
 
 
