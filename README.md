@@ -54,8 +54,11 @@
 
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&theme=tokyonight) -->
 
+[![Filosoho's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=filosoho&theme=algolia&show_icons=true)](https://github.com/filosoho)
+
+<!-- https://github-readme-stats.vercel.app/api/top-langs?username=filosoho&theme=algolia&show_icons=true -->
 
 
 
