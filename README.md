@@ -12,13 +12,6 @@
 
 <hr>
 
-🔍 I’m currently learning **Python, JavaScript, React** 
-
-📍 How to reach me: <a href="https://www.linkedin.com/in/filosoho/">**LinkedIn**</a>
-
-<hr>
-
-
 <h4 align="left"> 🛠️ Languages and Tools: </h4>
 
 <p align="left">
@@ -49,6 +42,14 @@
   </p>
 
 <br>
+
+<hr>
+
+🔍 I’m currently learning **Python, JavaScript, React** 
+
+📍 How to reach me: <a href="https://www.linkedin.com/in/filosoho/">**LinkedIn**</a>
+
+<hr>
 <!-- <p align="left"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=filosoho&show_icons=true&theme=jolly&locale=en&layout=compact" alt="filosoho"/></p> -->
 
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&layout=compact&title_color=C52977&icon_color=C52977&bg_color=270542&text_color=ffffff) -->
