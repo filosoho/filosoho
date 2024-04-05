@@ -45,7 +45,7 @@
 
 <hr>
 
-🔍 I’m currently learning **Python, JavaScript, React** 
+🔍 I’m currently learning **JavaScript, React** 
 
 📍 How to reach me: <a href="https://www.linkedin.com/in/filosoho/">**LinkedIn**</a>
 
