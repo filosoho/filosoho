@@ -80,8 +80,13 @@
 
 <br>
 
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=filosoho&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
+
+<!-- ![filosoho's GitHub Stats][github-stats-img] -->
+
+
 <!-- Floating stats image -->
-<img align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=filosoho&layout=compact&theme=algolia&show_icons=true" alt="Top Languages" style="float: right; width: 35%; margin-left: 20px;" />
+<!-- <img align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=filosoho&layout=compact&theme=algolia&show_icons=true" alt="Top Languages" style="float: right; width: 35%; margin-left: 20px;" /> -->
 
 <p>🔍 I’m currently learning:</p>
 <p>
@@ -106,4 +111,9 @@
 <!-- <img align='left' src="https://visitcount.itsvg.in/api?id=mjj677&icon=1&color=0)](https://visitcount.itsvg.in" /> -->
 
  [![](https://visitcount.itsvg.in/api?id=mjj677&icon=1&color=0)](https://visitcount.itsvg.in) 
+
+<!-- Link anchors -->
+<!-- [github-stats-img]: https://github-readme-stats.vercel.app/api?username=filosoho&count_private=false&show_icons=true&include_all_commits=true&theme=github_dark -->
+
+
 
