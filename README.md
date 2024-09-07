@@ -1,18 +1,53 @@
-<!-- ![MasterHead](https://media.licdn.com/dms/image/D4E16AQGdGymiPmOfCA/profile-displaybackgroundimage-shrink_350_1400/0/1672259002520?e=1681948800&v=beta&t=NphIbjqacIiV2ha7zMmjzUyD-fG8BjQF1W_I1NNupjA) -->
 
 ![MasterHead](https://github.com/filosoho/filosoho/blob/8d053719460a8a84b34f8c52646c42b453a682f6/Filosoho%20Coding%20.jpg)
 
-<!-- <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=14C3FF&width=435&lines=Hi%2C+I'm+Anna)](https://git.io/typing-svg)</h1> -->
-
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=14C3FF&center=true&width=435&lines=Hi%2C+I'm+Anna" alt="Typing SVG" /></a> </h1>
-
-<!-- <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=34&pause=1000&color=3A499F&center=true&width=435&lines=Hi%2C+I'm+Anna+" alt="Typing SVG" /></a> </h1> -->
 
 <h3 align="center" >  A curious Software Engineer :octocat:</h3>
 
 <hr>
 
-<h4 align="left"> 🛠️ Languages and Tools: </h4>
+
+## 🛠️ Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Saas](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%239B56F5.svg?style=for-the-badge&logo=vite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%23518F4C?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-%233ED18F?style=for-the-badge&logo=supabase&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23944058?style=for-the-badge&logo=jest&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23F7F7F7.svg?&style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white) 
+![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Render](https://img.shields.io/badge/Render-%230D0D0D.svg?style=for-the-badge&logo=render&logoColor=white)
+![Figma](https://img.shields.io/badge/figma%20-%23EA4C1D.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator%20-%23F79500.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop%20-%23001D34.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%23000058.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+<br>
+
+<hr>
+
+<!-- <h4 align="left"> 🛠️ Languages and Tools: </h4>
 
 <p align="left">
 
@@ -41,40 +76,34 @@
   
   </p>
 
+<br> 🔍📍 -->
+
+<br>
+
+<!-- Floating stats image -->
+<img align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=filosoho&layout=compact&theme=algolia&show_icons=true" alt="Top Languages" style="float: right; width: 35%; margin-left: 20px;" />
+
+<p>🔍 I’m currently learning:</p>
+<p>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+</p>
+
+<p>📍 How to reach me:</p>
+<p>
+  <a href="https://www.linkedin.com/in/filosoho/">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<!-- Clear float -->
+<div style="clear: both;"></div>
+
 <br>
 
 <hr>
 
-🔍 I’m currently learning **JavaScript, React** 
+<!-- <img align='left' src="https://visitcount.itsvg.in/api?id=mjj677&icon=1&color=0)](https://visitcount.itsvg.in" /> -->
 
-📍 How to reach me: <a href="https://www.linkedin.com/in/filosoho/">**LinkedIn**</a>
-
-<hr>
-<!-- <p align="left"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=filosoho&show_icons=true&theme=jolly&locale=en&layout=compact" alt="filosoho"/></p> -->
-
-<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&layout=compact&title_color=C52977&icon_color=C52977&bg_color=270542&text_color=ffffff) -->
-<!-- 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&title_color=C52977&icon_color=C52977&bg_color=270542&text_color=ffffff&custom_height=80) -->
-
-
-
-<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&theme=tokyonight) -->
-
-<!-- ![![Filosoho's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=filosoho&theme=algolia&show_icons=true)](https://github.com/filosoho) -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filosoho&layout=compact&theme=algolia&show_icons=true)
-
-<!-- https://github-readme-stats.vercel.app/api/top-langs?username=filosoho&theme=algolia&show_icons=true -->
-
-
-
-
-
-  
-
-<!--  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filosoho&theme=react&line_height=40&hide=css)  -->
-
-
-
-
+ [![](https://visitcount.itsvg.in/api?id=mjj677&icon=1&color=0)](https://visitcount.itsvg.in) 
 
