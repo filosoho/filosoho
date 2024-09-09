@@ -1,12 +1,30 @@
 
 ![MasterHead](https://github.com/filosoho/filosoho/blob/8d053719460a8a84b34f8c52646c42b453a682f6/Filosoho%20Coding%20.jpg)
 
+
+
+
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=14C3FF&center=true&width=435&lines=Hi%2C+I'm+Anna" alt="Typing SVG" /></a> </h1>
 
-<h3 align="center" >  A curious Software Engineer :octocat:</h3>
 
-<hr>
+<!-- <h3 align="center" >  A curious Software Engineer :octocat:</h3> -->
 
+<p>
+ <img src="https://github.com/filosoho/filosoho/blob/ce61f6c81cbe5a2977e6183ea67ec77267bba18c/avatar-coding.jpeg" align="right"  width="190">
+</p>
+ 
+###  A curious Software Engineer&nbsp; :octocat:
+ 
+Hi, I'm Anna,
+
+A curious Software Engineer with a background in full-stack web development. I love solving complex problems, learning new technologies and building innovative applications. Collaboration, technical problem-solving and continuous improvement are at the core of my development process. I'm always excited to work on meaningful projects and expand my skill set. 
+
+Check out my work below!
+
+<!-- Clear float -->
+<div style="clear: both;"></div>
+
+---
 
 ## 🛠️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -43,8 +61,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-<br>
-
 <hr>
 
 <!-- <h4 align="left"> 🛠️ Languages and Tools: </h4>
@@ -78,7 +94,6 @@
 
 <br> 🔍📍 -->
 
-<br>
 
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=filosoho&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
 
@@ -104,7 +119,6 @@
 <!-- Clear float -->
 <div style="clear: both;"></div>
 
-<br>
 
 <hr>
 
