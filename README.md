@@ -14,12 +14,12 @@
 </p>
  
 ###  A curious Software Engineer&nbsp; :octocat:
- 
-Hi, I'm Anna,
+<br>
+🧠 I’m a Software Engineer who loves building applications that are not just functional, but thoughtful and fun to use. I enjoy digging into new technologies and finding creative ways to solve problems.
 
-A curious Software Engineer with a background in full-stack web development. I love solving complex problems, learning new technologies and building innovative applications. Collaboration, technical problem-solving and continuous improvement are at the core of my development process. I'm always excited to work on meaningful projects and expand my skill set. 
+💡 When I’m not coding, you might find me exploring new frameworks or debugging tricky issues just for the challenge. 
 
-#### Check out my work below ⬇️
+⬇️ **Take a look at what I've been working on below.**
 
 <!-- Clear float -->
 <div style="clear: both;"></div>
