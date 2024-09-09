@@ -10,7 +10,7 @@
 <!-- <h3 align="center" >  A curious Software Engineer :octocat:</h3> -->
 
 <p>
- <img src="https://github.com/filosoho/filosoho/blob/ce61f6c81cbe5a2977e6183ea67ec77267bba18c/avatar-coding.jpeg" align="right"  width="190">
+ <img src="https://github.com/filosoho/filosoho/blob/ce61f6c81cbe5a2977e6183ea67ec77267bba18c/avatar-coding.jpeg" align="right"  width="200">
 </p>
  
 ###  A curious Software Engineer&nbsp; :octocat:
@@ -19,12 +19,12 @@ Hi, I'm Anna,
 
 A curious Software Engineer with a background in full-stack web development. I love solving complex problems, learning new technologies and building innovative applications. Collaboration, technical problem-solving and continuous improvement are at the core of my development process. I'm always excited to work on meaningful projects and expand my skill set. 
 
-Check out my work below!
+#### Check out my work below ⬇️
 
 <!-- Clear float -->
 <div style="clear: both;"></div>
 
----
+<br>
 
 ## 🛠️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
