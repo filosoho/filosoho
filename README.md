@@ -4,27 +4,48 @@
 
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=14C3FF&center=true&width=435&lines=Hi%2C+I'm+Anna" alt="Typing SVG" /></a> </h1>
 
+<h1 align="center" style="font-size: 2em; font-weight: bold;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=14C3FF&center=true&width=435&lines=Hi%2C+I'm+Anna" alt="Typing SVG" /></a> </h1>
+
+<h3 align="center" >  A curious Software Engineer&nbsp; :octocat:</h3> 
+<br>
+<p align="center">
+ <img src="https://github.com/filosoho/filosoho/blob/ce61f6c81cbe5a2977e6183ea67ec77267bba18c/avatar-coding.jpeg"  width="300">
+</p>  
 
 <!-- <h3 align="center" >  A curious Software Engineer :octocat:</h3> -->
+ 
+<!-- ###  A curious Software Engineer&nbsp; :octocat: -->
 
-<p>
+<!-- <p>
  <img src="https://github.com/filosoho/filosoho/blob/ce61f6c81cbe5a2977e6183ea67ec77267bba18c/avatar-coding.jpeg" align="right"  width="200">
 </p>
- 
-###  A curious Software Engineer&nbsp; :octocat:
+
 <br>
+
+<p>
 🧠 I’m a Software Engineer who loves building applications that are not just functional, but thoughtful and fun to use. I enjoy digging into new technologies and finding creative ways to solve problems.
 
 💡 When I’m not coding, you might find me exploring new frameworks or debugging tricky issues just for the challenge. 
+</p>
 
 ⬇️ **Take a look at what I've been working on below.**
 
 <!-- Clear float -->
-<div style="clear: both;"></div>
+<!-- <div style="clear: both;"></div> -->
+---
 
-<br>
+  - 🧠 I’m a Software Engineer who loves building applications that are not just functional, but thoughtful and fun to use. I enjoy digging into new technologies and finding creative ways to solve problems.   
+
+  - 💡 When I’m not coding, you might find me exploring new frameworks or debugging tricky issues just for the challenge.   
+ 
+  <br>
+  
+   ⬇️ <b>Take a look at what I've been working on below.</b>
+   <br>
+
+
+---
 
 ## 🛠️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
