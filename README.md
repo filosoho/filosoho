@@ -129,6 +129,7 @@
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/react_native-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/ThreeJS-black.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
 </p>
 
