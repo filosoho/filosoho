@@ -59,6 +59,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%239B56F5.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%23518F4C?style=for-the-badge&logo=node.js&logoColor=white) 
+![ThreeJS](https://img.shields.io/badge/ThreeJs-black.svg?style=for-the-badge&logo=three.js&logoColor=white")
 ![Express.js](https://img.shields.io/badge/express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -128,7 +129,7 @@
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/three.js-white.svg?style=for-the-badge&logo=three.js&logoColor=black" alt="Three.js" />
+  <img src="https://img.shields.io/badge/ThreeJS-black.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
 </p>
 
 <p>📍 How to reach me:</p>
