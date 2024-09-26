@@ -117,8 +117,6 @@
 <br> 🔍📍 -->
 
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=filosoho&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
-
 <!-- ![filosoho's GitHub Stats][github-stats-img] -->
 
 
@@ -140,13 +138,17 @@
   </a>
 </p>
 
+
 <!-- Clear float -->
-<div style="clear: both;"></div>
+<!-- <div style="clear: both;"></div> -->
 
 
 <hr>
 
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=filosoho&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages"  width="300">
 <!-- <img align='left' src="https://visitcount.itsvg.in/api?id=mjj677&icon=1&color=0)](https://visitcount.itsvg.in" /> -->
+
+---
 
  [![](https://visitcount.itsvg.in/api?id=mjj677&icon=1&color=0)](https://visitcount.itsvg.in) 
 
