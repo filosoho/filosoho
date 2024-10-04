@@ -7,7 +7,7 @@
 
 <h1 align="center" style="font-size: 2em; font-weight: bold;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=14C3FF&center=true&width=435&lines=Hi%2C+I'm+Anna" alt="Typing SVG" /></a> </h1>
 
-<h3 align="center" >  A curious Software Engineer&nbsp; :octocat:</h3> 
+<h3 align="center" >  A Curious Front End Developer&nbsp; :octocat:</h3> 
 <br>
 <p align="center">
  <img src="https://github.com/filosoho/filosoho/blob/ce61f6c81cbe5a2977e6183ea67ec77267bba18c/avatar-coding.jpeg"  width="300">
@@ -35,7 +35,7 @@
 <!-- <div style="clear: both;"></div> -->
 ---
 
-  - 🧠 I’m a Software Engineer who loves building applications that are not just functional, but thoughtful and fun to use. I enjoy digging into new technologies and finding creative ways to solve problems.   
+  - 🧠 I’m a Front End Developer who loves turning ideas into fun, interactive web experiences. My background in full-stack development gives me the flexibility to work on both the front and back end of projects, but I have a special passion for Front-End Development, crafting smooth, responsive and engaging user interfaces.
 
   - 💡 When I’m not coding, you might find me exploring new frameworks or debugging tricky issues just for the challenge.   
  
