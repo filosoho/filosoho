@@ -35,7 +35,7 @@
 <!-- <div style="clear: both;"></div> -->
 ---
 
-  - 🧠 I’m a Front End Developer who loves turning ideas into fun, interactive web experiences. My background in full-stack development gives me the flexibility to work on both the front and back end of projects, but I have a special passion for Front-End Development, crafting smooth, responsive and engaging user interfaces.
+  - 🧠 I’m a Front End Developer who loves turning ideas into fun, interactive web experiences. My background in full-stack development gives me the flexibility to work on both the front and back end of projects, but I have a special passion for Front-End Development, designing smooth, responsive and engaging user interfaces.
 
   - 💡 When I’m not coding, you might find me exploring new frameworks or debugging tricky issues just for the challenge.   
  
