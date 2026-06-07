@@ -153,7 +153,9 @@
 
 ---
 
- [![](https://visitcount.itsvg.in/api?id=mjj677&icon=1&color=0)](https://visitcount.itsvg.in) 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
+<!-- [![](https://visitcount.itsvg.in/api?id=mjj677&icon=1&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Link anchors -->
 <!-- [github-stats-img]: https://github-readme-stats.vercel.app/api?username=filosoho&count_private=false&show_icons=true&include_all_commits=true&theme=github_dark -->
